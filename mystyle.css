@@ -1,7 +1,7 @@
 <style>
 body {
 	background-image: url("GEOM_101/Background_Index.jpg");
-
+}
 ul {
   list-style-type: none;
   margin: 0;
@@ -31,5 +31,5 @@ li a.active {
   color: white;
   background-color: #4CAF50;
 }
-}
+
 </style>
