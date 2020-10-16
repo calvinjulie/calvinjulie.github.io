@@ -35,7 +35,7 @@ div.profile {
 	color: #800080;
 	text-decoration: underline;
 }
-div.profile {
+div.profile_text {
 	position:absolute;
 	left: 250px;
 	top:675px;
