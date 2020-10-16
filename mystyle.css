@@ -13,6 +13,9 @@ div.pagetitle {
 	position:absolute;
 	left: 800px;
 	top: 300px;
+	font-family:Impact, Charcoal, serif;
+	font-size: 3.5em; 
 }
+/* Reference font size and positioning from w3schools.com/css/ */
 
 	
