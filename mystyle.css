@@ -12,10 +12,20 @@ img {
 div.pagetitle {
 	position:absolute;
 	left: 800px;
-	top: 300px;
+	top: 225px;
 	font-family:Impact, Charcoal, serif;
 	font-size: 3.5em; 
 }
 /* Reference font size and positioning from w3schools.com/css/ */
+
+div.pagesub {
+	position: absolute;
+	left: 800px;
+	top: 350px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 2.5em;
+}
+
+	
 
 	
