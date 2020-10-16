@@ -39,6 +39,7 @@ div.profile_text {
 	position:absolute;
 	left: 250px;
 	top:675px;
+	right: 850px;
 	font-family: "Times New Roman", Times, sans-serif;
 	font-size: 1em;
 }
