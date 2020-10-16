@@ -2,10 +2,11 @@ body {
 	background-image: url("GEOM_101/Background_Index.jpg");
 }
 img { 
-	border-radius: 25px;
+	border-radius: 40px;
 	border: 1px solid LightGray;
 	max-width: 100%;
 	height: auto;
-	margin-left: 350px ;
+	margin-left: 350px;
+	margin-top: 100px;
 }
 	
