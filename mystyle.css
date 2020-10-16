@@ -1,7 +1,7 @@
 body {
 	background-image: url("GEOM_101/Background_Index.jpg");
 }
-img { 
+img.dp { 
 	border-radius: 40px;
 	border: 1px solid LightGray;
 	max-width: 100%;
