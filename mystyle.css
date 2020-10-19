@@ -81,6 +81,22 @@ div.maintenance {
 	font-size:1em;
 	width: 450px;
 }
+div.Secondwork {
+	position:absolute;
+	left:800px;
+	top:800px;
+	font-family:"Times New Roman", Times, sans-serif;
+	font-size:1.2em;
+	width:105px;
+}
+div.proshop {
+	position:absolute;
+	left:950px;
+	top:800px;
+	font-family:"Times New Roman", Times, sans-serif;
+	font-size:1em;
+	width:450px;
+}
 
 
 	
