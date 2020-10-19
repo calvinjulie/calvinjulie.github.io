@@ -125,7 +125,7 @@ div.TrentText {
 div.FlemingC {
 	position:absolute;
 	left:800px;
-	top:1050px;
+	top:1000px;
 	font-family:"Times New Roman", Times, sans-serif;
 	font-size:1.2em;
 	width:150px;
@@ -133,7 +133,7 @@ div.FlemingC {
 div.FlemingText {
 	position:absolute;
 	left:950px;
-	top:1050px;
+	top:1000px;
 	font-family:"Times New Roman", Times, sans-serif;
 	font-size:1em;
 	width:450px;
@@ -150,7 +150,7 @@ div.References {
 div.ReferencesText {
 	position:absolute;
 	left:250px;
-	top:1025px;
+	top:1000px;
 	font-family:"Times New Roman",Times, sans-serif;
 	font-size:1em;
 	width:450px;
