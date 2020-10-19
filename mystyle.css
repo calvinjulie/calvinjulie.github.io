@@ -160,4 +160,21 @@ div.ReferencesText {
 p {
 	width:600px;
 }
-	
+
+img.Golf {
+	position:absolute;
+	top:50px;
+	left:700px;
+}
+
+img.OLP {
+	position:absolute;
+	top: 500px;
+	left:900px;
+}
+
+img.Travel {
+	position:absolute;
+	top:1000px;
+	left:800px;
+}
