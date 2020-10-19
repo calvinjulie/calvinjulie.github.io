@@ -122,5 +122,21 @@ div.TrentText {
 	font-size:1em;
 	width:450px;
 }
+div.FlemingC {
+	position:absolute;
+	left:800px;
+	top:1050px;
+	font-family:"Times New Roman", Times, sans-serif;
+	font-size:1.2em;
+	width:150px;
+}
+div.FlemingText {
+	position:absolute;
+	left:950px;
+	top:1050px;
+	font-family:"Times New Roman", Times, sans-serif;
+	font-size:1em;
+	width:450px;
+}
 
 	
