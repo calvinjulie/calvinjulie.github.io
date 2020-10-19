@@ -106,4 +106,21 @@ div.Education {
 	color: #800080;
 	text-decoration: underline;
 }
+div.TrentU {
+	position:absolute;
+	left: 800px;
+	top: 950px;
+	font-family:"Times New Roman", Times, sans-serif;
+	font-size:1.2em;
+	width:150px;
+}
+div.TrentText {
+	position:absolute;
+	left:950px;
+	top:950px;
+	font-family:"Times New Roman", Times, sans-serif;
+	font-size:1em;
+	width:450px;
+}
+
 	
