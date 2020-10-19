@@ -138,5 +138,21 @@ div.FlemingText {
 	font-size:1em;
 	width:450px;
 }
-
+div.References {
+	position:absolute;
+	left: 250px;
+	top:950px;
+	font-family:"Times New Roman", Times, serif;
+	font-size:1.5em;
+	color: #800080;
+	text-decoration: underline;
+}
+div.ReferencesText {
+	position:absolute;
+	left:250px;
+	top:1025px;
+	font-family:"Times New Roman",Times, sans-serif;
+	font-size:1em;
+	width:450px;
+}
 	
